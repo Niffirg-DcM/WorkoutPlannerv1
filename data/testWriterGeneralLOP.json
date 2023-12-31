@@ -1,0 +1,10 @@
+{"WorkoutPlans": [
+    {"ListOfExcercises": [{
+        "reps": 11,
+        "name": "Bench Press"
+    }]},
+    {"ListOfExcercises": [{
+        "reps": 9,
+        "name": "Leg Press"
+    }]}
+]}

@@ -1,0 +1,30 @@
+{"WorkoutPlans": [
+  {"ListOfExcercises": [
+    {
+      "reps": 2,
+      "name": "Chest Press"
+    },
+    {
+      "reps": 10,
+      "name": "Bench Press"
+    },
+    {
+      "reps": 12,
+      "name": "Fly"
+    }
+  ]},
+  {"ListOfExcercises": [
+    {
+      "reps": 8,
+      "name": "Leg Press"
+    },
+    {
+      "reps": 10,
+      "name": "swim"
+    },
+    {
+      "reps": 100,
+      "name": "live"
+    }
+  ]}
+]}

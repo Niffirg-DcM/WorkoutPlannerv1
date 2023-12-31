@@ -1,0 +1,38 @@
+{"WorkoutPlans": [
+    {"ListOfExcercises": [
+        {
+            "reps": 10,
+            "name": "Bench Press"
+        },
+        {
+            "reps": 10,
+            "name": "Leg Press"
+        },
+        {
+            "reps": 12,
+            "name": "Squats"
+        },
+        {
+            "reps": 8,
+            "name": "Dumbell Press"
+        }
+    ]},
+    {"ListOfExcercises": [
+        {
+            "reps": 8,
+            "name": "Bicep Curl"
+        },
+        {
+            "reps": 12,
+            "name": "Tricep Extension"
+        },
+        {
+            "reps": 10,
+            "name": "Spider Curl"
+        },
+        {
+            "reps": 5,
+            "name": "5 minute Sprints"
+        }
+    ]}
+]}
